@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1alihsVwbQLKrJZ9Uq1IT5sN2nEfa8OnU9jJhOGFCgL4/
 
 TinkerCAD simulation:
 https://www.tinkercad.com/things/22TXWDJLsBF-final-uterine-contraction-simulator-maluk-timor?sharecode=lVd7Xw5w5XRgdkeiWpOpoOcbRJJO3ApzB7S-MXdNXYI
+
+Demo Video Link:
+https://drive.google.com/file/d/1QJzsFbpTQrLqK2wMNrXYZa90lgR5ePuB/view?usp=sharing 
